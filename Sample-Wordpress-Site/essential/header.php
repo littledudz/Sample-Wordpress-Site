@@ -1,0 +1,1 @@
+<!-- header.php - Displays the header at the top of every page on your WordPress site. This is the code that generates the menu. -->

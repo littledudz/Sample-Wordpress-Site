@@ -1,0 +1,1 @@
+<!-- functions.php - Custom functions for the theme. You should leave this alone unless you know PHP and know what you're doing. -->

@@ -1,0 +1,1 @@
+<!-- single.php - Displays a single post with or without comments. -->

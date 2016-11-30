@@ -1,0 +1,1 @@
+<!-- page.php - Displays any single page. This does not include posts, but rather individual static pages you've created in the WordPress Admin. -->

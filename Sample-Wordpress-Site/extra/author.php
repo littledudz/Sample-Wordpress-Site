@@ -1,0 +1,1 @@
+<!-- author.php - Displays all the posts for a particular author. It's basically the same as the archives page, but just for one author. -->

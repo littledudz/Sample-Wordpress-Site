@@ -1,0 +1,1 @@
+<!-- index.php - Displays the primary blog roll page. Like many other pages (e.g. author.php, page.php, search.php, etc.) in incorporates the header.php, sidebar.php and footer.php files to display the entire site. -->

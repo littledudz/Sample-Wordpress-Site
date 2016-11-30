@@ -1,0 +1,1 @@
+<!-- 404.php - The page responsible for displaying 404 not found errors, for when a user attempts to go to a page on your WordPress site that does not exist. -->

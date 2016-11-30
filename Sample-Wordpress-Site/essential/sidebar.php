@@ -1,0 +1,1 @@
+<!-- sidebar.php - This file contains the primary and secondary areas for sidebar widgets. You can add widgets to these areas via the WordPress Admin and shouldn't need to edit this file. -->

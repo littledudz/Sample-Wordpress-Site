@@ -1,0 +1,1 @@
+<!-- category.php - Displays all the posts in a given category. -->

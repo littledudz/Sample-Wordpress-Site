@@ -1,0 +1,1 @@
+<!-- archive.php - Displays the archived posts list, much like the main page but for posts in the archive. -->

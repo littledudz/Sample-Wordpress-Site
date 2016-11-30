@@ -1,0 +1,1 @@
+<!-- footer.php - The footer that will be inserted at the bottom of the page. You'll need to edit this file and add what you want to show up in the footer. -->
