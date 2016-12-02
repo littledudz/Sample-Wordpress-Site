@@ -1,1 +1,0 @@
-<!-- comments.php - When on a single post page and comments are accepted, this file will be used to show the comment form. -->
